@@ -161,7 +161,7 @@ p {
     padding: 0 2rem;
     /* overlay */
     position: absolute;
-    top: 60px;
+    top: 65px;
     /* would be top 0 but because of our navbar we need to add that height */
     left: 0;
     right: 0;
